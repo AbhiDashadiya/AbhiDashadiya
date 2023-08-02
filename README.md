@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @AbhiDashadiya
-- 👀 I’m interested in Game Development
-- 🌱 I’m currently learning Game Development
-- 💞️ I’m looking to collaborate on Chain Recation
+- 🌱 I'm Full stack developer. ( Backend : Asp .net, Frontend : Html, CSS, Javascript )
+- 😃 Loves to develop complex things.
 
 <!---
 AbhiDashadiya/AbhiDashadiya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
